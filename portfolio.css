@@ -1,0 +1,54 @@
+h1,p {
+        text-align: center;
+      }
+       h1 {
+        color: hwb(199 8% 27%);
+        font-size: 34px;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+       }
+       p {
+        color: rgb(42, 58, 18);
+        font-size: 22px;
+       }
+       hr {
+        height: 2.5px;
+        background-color: rgb(224, 221, 221);
+        border-color: rgb(224, 221, 221);
+       }
+       .jeep {
+        font-style: oblique;
+       }
+       h2 {
+        font-family: Verdana;  
+        font-size: 28px;
+         color: hwb(199 8% 27%);
+       }
+       h3 {
+        font-family: Verdana,serif;  
+        font-size: 20px;
+         color: hwb(199 8% 27%);
+       }
+       body {
+        background-image: url("https://cdn.pixabay.com/photo/2017/03/24/07/01/code-2170396_1280.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+       }
+       .menu {
+        width: 100%;
+        background-color: rgb(201, 201, 206);
+  margin-left: auto;
+  margin-right: auto;
+       }
+      a {
+        color: black;
+        text-decoration: none;
+      }
+      a:hover {
+   color: grey;
+ }
+ ion-icon {
+  color: rgb(172, 172, 181);
+  font-size: 30px;
+ }
